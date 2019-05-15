@@ -1,19 +1,19 @@
 # HTTP
 
 <!-- TOP -->
-- [一、URI和URL](#一、URI和URL)
+- [一、URI和URL](#一URI和URL)
   - [统一资源标识符](#统一资源标识符)
   - [URI格式](#URI格式)
-- [二、简单的HTTP协议](#二、简单的HTTP协议)
-- [三、HTTP方法](#三、HTTP方法)
-  - [GET](#GET：获取资源)
-  - [POST](#POST：传输实体主体)
-  - [PUT](#PUT：传输文件)
-  - [HEAD](#HEAD：获得报文首部)
-  - [DELETE](#DELETE：删除文件)
-  - [OPTIONS](#OPTIONS：询问支持的方法)
-  - [TRACE](#TRACE：追踪路径)
-  - [CONNECT](#CONNECT：要求用隧道协议连接代理)
+- [二、简单的HTTP协议](#二简单的HTTP协议)
+- [三、HTTP方法](#三HTTP方法)
+  - [GET](#GET获取资源)
+  - [POST](#POST传输实体主体)
+  - [PUT](#PUT传输文件)
+  - [HEAD](#HEAD获得报文首部)
+  - [DELETE](#DELETE删除文件)
+  - [OPTIONS](#OPTIONS询问支持的方法)
+  - [TRACE](#TRACE追踪路径)
+  - [CONNECT](#CONNECT要求用隧道协议连接代理)
 - [参考资料](#参考资料)
 <!-- TOP -->
 
