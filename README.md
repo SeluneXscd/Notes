@@ -1,7 +1,5 @@
 # Notes
 
-### 学习上的一些笔记，算法，计算机网络，操作系统，Java等
-
 ### :computer:操作系统
 
 ### :floppy_disk:数据库
@@ -16,8 +14,11 @@
 
 ### :coffee:Java
 
+### ::Golang
+
 ### :wrench:工具
 
 ### :notebook:随记
 
 - [dock typing](https://github.com/SeluneXscd/Notes/blob/master/%E9%9A%8F%E8%AE%B0/duck%20typing.md)
+
