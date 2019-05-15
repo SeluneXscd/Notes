@@ -14,7 +14,7 @@
 
 ### :cloud: 计算机网络
 
-- [HTTP](https://github.com/SeluneXscd/Notes/tree/master/%E7%BD%91%E7%BB%9C/HTTP/README.md)
+- [HTTP](https://github.com/SeluneXscd/Notes/tree/master/%E7%BD%91%E7%BB%9C/HTTP.md)
 
 - [TCP/IP](https://github.com/SeluneXscd/Notes/tree/master/%E7%BD%91%E7%BB%9C/TCP_IP/README.md)
 
