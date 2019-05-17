@@ -14,6 +14,10 @@
 	- [String 类的常用方法](#string-%E7%B1%BB%E7%9A%84%E5%B8%B8%E7%94%A8%E6%96%B9%E6%B3%95)
 	- [== 和 equals() 的区别](#%E5%92%8C-equals-%E7%9A%84%E5%8C%BA%E5%88%AB)
 
+[TOC]
+
+
+
 # 一、数据类型
 
 ## 基本数据类型
@@ -124,12 +128,12 @@ String 不可变性天生具备线程安全，可以在多个线程中安全地�
 
 - 总而言之
   1. 可变性
-    String 不可变
-    StringBuffer 和 StringBuilder 可变
+      String 不可变
+      StringBuffer 和 StringBuilder 可变
   2. 线程安全
-    String 不可变，因此是线程安全的
-    StringBuilder 不是线程安全的
-    StringBuffer 是线程安全的，内部使用 synchronized 进行同步
+      String 不可变，因此是线程安全的
+      StringBuilder 不是线程安全的
+      StringBuffer 是线程安全的，内部使用 synchronized 进行同步
 
 ## String str = "i" 与 String str = new String("i")
 
