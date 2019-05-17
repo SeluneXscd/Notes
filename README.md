@@ -24,11 +24,11 @@
 
 ### :coffee: Java
 
-- [Java 基础]()
-- [Java 容器]()
-- [Java 虚拟机]()
-- [Java 并发]()
-- [Java I/O]()
+- [Java 基础](https://github.com/SeluneXscd/Notes/blob/master/Java/Java%20%E5%9F%BA%E7%A1%80.md)
+- [Java 容器](https://github.com/SeluneXscd/Notes/blob/master/Java/Java%20%E5%AE%B9%E5%99%A8.md)
+- [Java I/O](https://github.com/SeluneXscd/Notes/blob/master/Java/Java%20IO.md)
+- [Java 并发](https://github.com/SeluneXscd/Notes/blob/master/Java/Java%20%E5%B9%B6%E5%8F%91.md)
+- [Java 虚拟机](https://github.com/SeluneXscd/Notes/blob/master/Java/Java%20%E8%99%9A%E6%8B%9F%E6%9C%BA.md)
 
 ### :smile: Golang
 
@@ -39,5 +39,5 @@
 
 ### :notebook: 随记
 
-- [dock typing](https://github.com/SeluneXscd/Notes/blob/master/%E9%9A%8F%E8%AE%B0/duck%20typing.md)
+- [Dock Typing](https://github.com/SeluneXscd/Notes/blob/master/%E9%9A%8F%E8%AE%B0/duck%20typing.md)
 
