@@ -1,4 +1,4 @@
-[TOC]
+
 - [一、数据类型](#%E4%B8%80%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B)
 	- [基本数据类型](#%E5%9F%BA%E6%9C%AC%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B)
 	- [引用类型](#%E5%BC%95%E7%94%A8%E7%B1%BB%E5%9E%8B)
@@ -9,11 +9,11 @@
 	- [String 被声明为 final，因此它不可被继承。](#string-%E8%A2%AB%E5%A3%B0%E6%98%8E%E4%B8%BA-final%E5%9B%A0%E6%AD%A4%E5%AE%83%E4%B8%8D%E5%8F%AF%E8%A2%AB%E7%BB%A7%E6%89%BF)
 	- [不可变的好处](#%E4%B8%8D%E5%8F%AF%E5%8F%98%E7%9A%84%E5%A5%BD%E5%A4%84)
 	- [String, StringBuilder, StringBuffer](#string-stringbuilder-stringbuffer)
-	- [String str = "i" 与 String str = new String("i")](#string-str-string-str-new-string)
+	- [String str = "i" 与 String str = new String("i")](#string-str--%22i%22-%E4%B8%8E-string-str--new-string%22i%22)
 	- [String Pool 字符串常量池](#string-pool-%E5%AD%97%E7%AC%A6%E4%B8%B2%E5%B8%B8%E9%87%8F%E6%B1%A0)
 	- [字符串反转](#%E5%AD%97%E7%AC%A6%E4%B8%B2%E5%8F%8D%E8%BD%AC)
 	- [String 类的常用方法](#string-%E7%B1%BB%E7%9A%84%E5%B8%B8%E7%94%A8%E6%96%B9%E6%B3%95)
-	- [== 和 equals() 的区别](#%E5%92%8C-equals-%E7%9A%84%E5%8C%BA%E5%88%AB)	
+	- [== 和 equals() 的区别](#%E5%92%8C-equals-%E7%9A%84%E5%8C%BA%E5%88%AB)
 
 [TOC]
 
