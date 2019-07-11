@@ -1,4 +1,4 @@
-# Spring IOC
+# [Spring IOC-控制反转]([https://zh.wikipedia.org/wiki/%E6%8E%A7%E5%88%B6%E5%8F%8D%E8%BD%AC](https://zh.wikipedia.org/wiki/控制反转))
 
 ## SpringIOC原理
 
