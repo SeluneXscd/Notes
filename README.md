@@ -33,7 +33,7 @@
 ### 🌱 Spring
 
 - [SpringIOC](./Spring/SpringIOC.md)
-- [SpringAOP](./Sping/SpringAOP.md)
+- [SpringAOP](./Spring/SpringAOP.md)
 
 ### :smile: Golang
 
