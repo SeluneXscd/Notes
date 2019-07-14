@@ -20,6 +20,8 @@
 
 - [LeetCode-Java](https://github.com/SeluneXscd/LeetCode-for-Java)
 - [算法](./算法/算法.md)
+- [数据结构](./算法/数据结构)
+  - [HashMap](./算法/数据结构/HashMap.md)
 - [程序员代码面试指南: IT名企算法与数据结构题目最优解](https://github.com/SeluneXscd/Coding-Interview-Guide-StudyNote)
 - [剑指offer-Java版本](https://github.com/SeluneXscd/SwordToOffer-Java)
 
