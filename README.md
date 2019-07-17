@@ -4,6 +4,7 @@
 
 - [操作系统原理](./操作系统/OperatingSystem.md)
 - [Linux](./操作系统/Linux.md)
+- [位运算](./操作系统/位运算.md)
 
 ### :floppy_disk: 数据库
 
