@@ -1,16 +1,16 @@
 # Java多线程和并发
 
-- [一、进程和线程的区别](#一、进程和线程的区别)
-- [二、Thread中的start()和run()方法的区别](#二、Thread中的start()和run()方法的区别)
-- [三、Thread和Runnable是什么关系](#三、Thread和Runnable是什么关系)
-- [四、如何实现处理线程的返回值](#四、如何实现处理线程的返回值)
-- [五、线程的状态](#五、线程的状态)
-- [六、sleep和wait的区别](#六、sleep和wait的区别)
-- [七、notify和notifyAll的区别](#七、notify和notifyAll的区别)
-- [八、Yield函数](#八、Yield函数)
-- [九、如何中断线程](#九、如何中断线程)
-- [十、synchronized](#十、synchronized)
-- [十一、synchronized底层实现原理](#十一、synchronized底层实现原理)
+- [一、进程和线程的区别](#一-进程和线程的区别)
+- [二、Thread中的start()和run()方法的区别](#二-Thread中的start()和run()方法的区别)
+- [三、Thread和Runnable是什么关系](#三-Thread和Runnable是什么关系)
+- [四、如何实现处理线程的返回值](#四-如何实现处理线程的返回值)
+- [五、线程的状态](#五-线程的状态)
+- [六、sleep和wait的区别](#六-sleep和wait的区别)
+- [七、notify和notifyAll的区别](#七-notify和notifyAll的区别)
+- [八、Yield函数](#八-Yield函数)
+- [九、如何中断线程](#九-如何中断线程)
+- [十、synchronized](#十-synchronized)
+- [十一、synchronized底层实现原理](#十一-synchronized底层实现原理)
 
 ## 一、进程和线程的区别
 
