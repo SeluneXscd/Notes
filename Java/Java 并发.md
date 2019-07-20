@@ -299,7 +299,8 @@ thread A is done
 ```java
 public class NotificationDemo {
     /**
-     * volatile 多个线程对一个对象修改，线程A修改了对象的值，其他的线程都能立即看到改动
+     * volatile 多个线程对一个对象修改，线程A修改了对象的值，其他的线程都能立即看到改动,
+     * 使用 volatile 可以禁止 JVM 的指令重排，保证在多线程环境下也能正常运行。
      */
     private volatile boolean go = false;
 
